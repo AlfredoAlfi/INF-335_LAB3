@@ -1,0 +1,122 @@
+Apple Unveils
+   `Breakthrough'
+   In Technology
+   ---
+   Macintosh Model Responds
+   To Spoken Commands
+   Using Plain Language
+   ----
+   By G. Pascal Zachary
+   Staff Reporter of The Wall Street Journal
+Leading computer researchers hailed Apple's work, saying
+it appeared to represent a milestone in the decades-long
+quest to build personal computers that can carry out spoken
+instructions. Apple is the world's second-largest supplier of
+personal computers.
+   "As far as I know, this is a first," said Marvin Minsky, a
+computer-science professor at the Massachusetts Institute of
+Technology and a pioneer in the field of artificial
+intelligence. Mr. Minsky, along with about 500 other people,
+witnessed a demonstration of Apple's technology at the
+Technology, Entertainment and Design conference here Friday
+evening. About 24 hours earlier, Apple conducted a similar
+demonstration in Tokyo at a trade show.
+   Several companies, most notably Dragon Systems Inc.,
+already sell speech-recognizers for personal computers, but
+these products require special hardware and a speaker must
+"train" these systems to respond to his or her voice. Also,
+these products work well only when speakers say one word at a
+time, pausing after each one.
+   On the other hand, Apple's speech-recognizer responded to
+continuous speech, even answering back at times. Mr. Sculley
+said the system works with off-the-shelf Macintosh computers
+without any special hardware such as a
+digital-signal-processor chip and immediately responds to a
+new speaker's voice.
+   It isn't clear how quickly Apple can bring its
+speech-recognizer technology to market or whether the company
+has a significant advantage over rivals. International
+Business Machines Corp., American Telephone  Telegraph Co.,
+Nihon Telegraph  Telephone Corp., NEC Corp. and many other
+companies are trying to solve the same problem. The Japanese
+are esepcially interested in building systems that can
+simultaneously translate between English and Japanese speech.
+None of these companies are believed to have duplicated
+Apple's claim of speaker-independent, continuous-speech
+recognition. But sometimes companies keep innovations under
+wraps until a product is nearly ready.
+   Mr. Sculley described the demonstration as "a teaser" that
+illustrated Apple's progress in building what it has called a
+"knowledge navigator," or a pocket-sized computer that can
+both respond to commands and answer questions in ordinary
+language.
+   Mr. Sculley would not comment on the company's plans for
+speech recognition, but he cites Apple's work as evidence of
+continuing innovation in the field of personal computing. In
+statements over the past year -- and especially since Apple
+announced a partnership with IBM last July -- Mr. Sculley has
+been trying to counteract cynicism among buyers of computers
+who say personal computer design is stagnating and that the
+only thing to be excited about is lower prices.
+   Observers said that Apple's technology should end up in
+future Macintosh computers or in an expected line of
+"personal electronics," portable devices that will serve as
+electronic notepads or electronic references and include some
+of the functions of a cellular telephone. The only potential
+drawback is that the speech processor, at least today,
+requires a top-of-theline 68040 microprocessor from Motorola
+Inc., which could mean that any speech-capable computers
+would sell for more than $5,000.
+   "It looks like superb work . . . We can't do it in our
+lab," said Wayne Rosing, who heads the advanced research lab
+at Sun Microsystems Inc., a chief rival of Apple.
+   The key figure behind Apple's speech-recognition research
+is a 30-year-old native of Taiwan named Kai-fu Lee. Mr. Lee
+worked out his basic ideas on speaker independence and
+continuous speech as a graduate student and an assistant
+professor at Carnegie Mellon University in Pittsburgh. He
+joined Apple about 18 months ago.
+   Mr. Lee's appearance in public was somewhat unusual since
+companies often hide the identity of top researchers on a
+project until after it hits the market. At Carnegie Mellon,
+Mr. Lee built a widely known, continuous speech-recognition
+system called Sphinx, but it required specially designed
+microprocessors, or "electronic brains."
+   In an interview, Mr. Lee said the performance of his
+speech-recongizer does not suffer on a Macintosh equipped
+with a 68040 chip. He said he was able to maintain
+performance by shrewdly turning some mathematical algorithms,
+which describe complicated relationships, into Macintosh
+computer code.
+   "He's done a brilliant job of bolting {the algorithms}
+into the code," said Mr. Rosing of Sun.
+   Mr. Lee, shrugging off compliments, said the
+speech-recognizer could stand some improvement. Untutored
+speakers might be confused about how to talk to their
+computer without a better interface, "a developed model that
+cues you in on what to say," he said.
+   The vocabulary of the system also could be expanded. Mr.
+Lee said that each type of command, such as opening documents
+or inserting words into forms, was associated with anywhere
+from 100 words to 300 words. He did not give the size of the
+system's total vocabulary.
+   Another problem: Making the speech-recognizer robust
+enough that background noise doesn't throw it off.
+   Apple's speech-recognizer requires speakers to begin each
+command by addressing the computer with a prearranged name.
+Mr. Lee's name for his computer helper, or agent, is
+"Casper." At one point in the demonstration, Mr. Lee asked
+Casper to pay two bills electronically, and he specified the
+amount of each check. Mr. Lee's request was carried out.
+   The promise of unfettered conversation with a computer has
+captivated people almost since the first electronic computing
+machines were built in the mid-1940s. But accompanying this
+promise has been a debate over the benefits of talking to a
+computer, with skeptics saying only people with physical
+disabilities or other special problems will find much gain
+from talking much to machines.
+   Others, citing science fiction and their own instincts,
+say people will flock to computer conversation. In the
+current television version of Star Trek, for instance, the
+crew of the spaceship Enterprise routinely hail a ubiquitous
+computer and ask it questions in plain English.

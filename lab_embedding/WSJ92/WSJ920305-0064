@@ -1,0 +1,97 @@
+Personal Technology
+   ----
+   By Walter S. Mossberg
+But They're Curable
+                                                                                                       
+
+   NOBODY KNOWS how many IBM-compatible personal computers
+will be afflicted by the much-publicized Michelangelo
+computer virus, which is set to wipe out the hard disk drives
+of infected computers when they are started or restarted
+tomorrow. It seems a safe bet, however, that most people will
+escape any damage.
+   Nevertheless, the companies that make anti-virus software
+are hoping you won't relax. They warn that there are over
+1,000 computer viruses affecting IBM-compatibles, including a
+strain timed to wipe out certain programs every Friday the
+13th (there's one next week). And some have trumpeted the
+discovery of a new virus that may cause crashes on Apple
+Computer's Macintosh machines, which are immune to
+Michelangelo.
+   Just how serious is the virus threat? Must every computer
+owner buy anti-virus software? The answer is that there is a
+real threat, but it is easily exaggerated by the anti-virus
+software firms. Your need for anti-virus software depends a
+lot on how you use your computers. And though many of the
+programs are effective, they have downsides.
+   Some companies seem to play on fears; a few are warning of
+a Maltese Amoeba virus set to erase disk files on March 15.
+But the independent National Computer Security Association,
+in Washington, says that of the 1,000-plus viruses known to
+attack IBM-compatibles, fewer than 50 are common and only
+about 100 others have also been found "in the wild;" the rest
+are known only to researchers. Last year, the NCSA says, just
+two viruses, JerusalemB and Stoned, accounted for 74% of
+virus incidents in the U.S.; neither wipes out whole disks,
+as Michelangelo does.
+   As for the dreaded Maltese Amoeba, the NCSA and others say
+it hasn't yet been reported in the U.S. In fact, some of the
+worst viruses mainly flourish abroad. Mac owners face few
+viruses.
+   So, there's no need to panic, but prudence is in order.
+Many computers, especially in big organizations, become
+infected, and most infections screw up the computer. The
+worst cases wipe out data or program files.
+   Lone home users who do little disk swapping or program
+sharing probably don't need anti-virus software. But in most
+other cases -- especially large organizations with many
+computer users -- anti-virus software is advisable. At the
+very least, hard disks should be scanned for viruses every
+month or so, and any floppy disk from an outside source
+should be scanned before use.
+   Anti-virus programs usually include a scanner, which
+operates on demand or when the machine starts up, and looks
+for computer code that matches a set of "signatures"
+characteristic of known viruses. There's often a separate
+module that eradicates any viruses found. And there's
+normally a form of the program that remains in memory at all
+times to check for viruses.
+   In addition, many programs try to seek unknown viruses by
+looking for changes in the size and composition of program
+files on your hard disk, or by monitoring suspicious behavior
+believed common to viruses.
+   None of these methods are fool-proof. The programs'
+database of virus signatures must be updated often to be
+effective. Their memory-resident modules can goof up other
+software by hogging memory. And various techniques of finding
+unknown viruses might be rendered ineffective if the digital
+vandals think up new methods of infection.
+   Two programs, Novi by Certus, of Cleveland, and
+Untouchable by Fifth Generation, of Baton Rouge, La., claim
+such good generic virus detection that you don't need to
+update for new virus signatures.
+   Novi seems to offer the more sophisticated approach,
+monitoring processes inside programs. The company says its
+generic technology has caught every new virus for four years.
+But if you buy these products, I'd suggest continuing to scan
+for known viruses and to get updates, which both products
+allow.
+   You probably wouldn't go wrong with any of four packages:
+Central Point Anti-Virus, by Central Point, Beaverton, Ore.;
+Viruscan, by McAfee Associates, Santa Clara, Calif.; Certus's
+Novi; and ViruSafe by Xtree, San Luis Obispo, Calif. I'd
+place another leading package, Norton Anti-Virus, by
+Symantec, Santa Monica, Calif., a whisker behind.
+   But the NCSA gives higher marks to two lesser-known
+programs: Dr. Solomon's Anti-Virus Toolkit, sold by Ontrack
+Computer Systems, Eden Prairie, Minn.; and Leprechaun Virus
+Buster, sold by Leprechaun Software, Marietta, Ga.
+   Some top virus busters swear by an Icelandic program
+that's free to home users and costs businesses just $1 a
+computer. Called F-Prot, it's found on database services and
+bulletin boards, including NCSA's (202-364-1304).
+   For Macintosh users, two commercial programs stand out:
+Virex, by Microcom, Norwood, Mass., and Symantec's AntiVirus.
+But there's also a very good free anti-virus program for
+Macs, called Disinfectant, by John Norstad of Northwestern
+University, available on many bulletin boards.

@@ -1,0 +1,72 @@
+IBM to Unveil
+   A More Flexible
+   Way to Network
+   ---
+   Peer-to-Peer Approach Lets
+   Any Computer in System
+   Manage the Data Traffic
+   ----
+   By Paul B. Carroll
+   Staff Reporter of The Wall Street Journal
+The announcement will mark a reversal for IBM. It will
+alter an approach known as SNA that allowed only a mainframe
+to manage a broad data network. That method had been
+criticized as self-serving, because it ensured demand for
+IBM's hugely profitable mainframes. Many customers also said
+the approach was too rigid. SNA required such a careful
+layout of the network that even something as simple as adding
+one terminal on someone's desktop could require significant
+programming, to let all parts of the network know that a new
+terminal had arrived.
+   Instead, IBM will adopt a more democratic style known as
+peer-to-peer networking. Any computer, large or small, will
+be able to manage data traffic. The free-form approach will
+also be flexible enough so that a network can manage itself
+in more ways than is now possible -- recognizing
+automatically, for instance, when a computer or terminal is
+added.
+   The change will eliminate much of the work that has made
+computer networks so costly and so complicated that they are
+prone to trouble, which should help the fast-growing
+networking industry in its push to make computer networks as
+ubiquitous as the telephone system. People in the industry
+like to say that computer networks are where telephone
+networks were in their infancy, when each call had to be
+placed by an operator, and that the only way to achieve a
+breakthrough is to automate the process.
+   "IBM views this as the most significant networking
+announcement they've made since the announcement of SNA" in
+the mid-1970s, said Dixon Doll, general partner of Accel
+Partners, a venture capital firm.
+   It will probably be late this year or early next year
+before the new networking software, known as APPN, becomes
+available. That means it will be well into next year, at the
+earliest, before big customers begin making the change in
+significant numbers.
+   Still, once the software becomes available, the change
+should happen faster than is generally the case in the
+computer industry, where change is expensive and sometimes
+fraught with peril. Customers have been pushing for
+standard-setter IBM to embrace the peer-to-peer approach --
+which is used by many of its competitors and which IBM itself
+has dabbled in, in personal computers and some minicomputers.
+In addition, IBM has made the shift easy. Customers won't
+have to buy new hardware, either in the back shop where the
+mainframes live or on people's desktops. Customers also won't
+have to change any software on the desktop.
+   Part of the reason for the long lead time between now and
+the availability of the software is that IBM is taking a new
+approach to development that will get customers more heavily
+involved than in the past. Computer companies typically send
+software to some test sites toward the end of development, as
+a way of testing for bugs. But IBM is going to ship its
+current, early version of the software to a few big
+customers, in return for extensive feedback on how the
+product should be improved or redefined. The customer
+involvement is also why it's not clear just when the software
+will be available; IBM will have to work with those customers
+to figure that out.
+   "This product will not be available for general release
+until customers say it's ready. Think about that," said Frank
+Dzubeck, president of Communications Network Architects Inc.,
+a consulting firm. "This is something entirely new."

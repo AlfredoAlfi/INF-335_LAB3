@@ -1,0 +1,26 @@
+Technology:
+   Cloning Chips Can Be an Expensive Feat
+   ----
+   By Stephen Kreider Yoder
+Typical is Chips  Technologies Inc.'s three-year, $50
+million project to reverse engineer Intel's 386 chip. To
+avoid any question of impropriety, the company built an
+engineering "clean room," with special locks to keep out all
+but a small group of authorized engineers.
+   Chips  Technologies barred former Intel employees from
+the team. The "clean" engineers weren't allowed to look
+inside the Intel chip. Instead, they noted how Intel's chip
+responded to external software commands, then worked backward
+to create circuits that generate exactly the same responses.
+The result was a line of chips, unveiled last September, that
+the company says will run faster than Intel's without
+infringing on any rights.
+   Advanced Micro Devices Inc. had an easier job cloning
+Intel's chips. The company has the rights to many Intel
+patents, and its clones use Intel-copyrighted software called
+microcode that is built into Intel's chips. While other
+cloners must write their own microcode, AMD says a 1976
+agreement gives it rights to Intel's microcode; Intel
+disagrees and has sued.
+   (See related story: "Technology: Intel-AMD Clash Is Close
+to a Climax" -- WSJ Jan. 31, 1991)

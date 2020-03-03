@@ -1,0 +1,14 @@
+commrcl paper dealer 90 day -a 4.09 4.07
+certf deposit resal 90 day 4.08 4.06
+feder fund overnight -b 4.01 3.87
+eurodollar 90 day -b 4.08 4.08
+treasuri bill one year -c 4.23 4.14
+treasuri note three year -c 5.65 5.47
+treasuri note five year -c 6.41 6.32
+treasuri note ten year -c 7.25 7.14
+treasuri bond 30 year -c 7.74 7.65
+
+
+a-discount rate b-week end wednesday januari 29
+1992 wednesday januari 22 1992. c-yield adjust
+constant matur

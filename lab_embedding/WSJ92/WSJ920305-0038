@@ -1,0 +1,60 @@
+Glitch Halts a Crucial Test by Reuters
+   Of Futures-Trading System; Stock Sags
+   ----
+   By Jeffrey Taylor
+   Staff Reporter of The Wall Street Journal
+Reuters American Depositary Receipts fell $4 to $61 apiece
+yesterday on Nasdaq volume of 702,000, compared with average
+daily volume of 276,000. In London, the share price tumbled
+39 pence (68 cents) to close at 1186 pence ($20.59).
+   Globex has successfully completed nine tests using the
+system to execute simulated futures trades, but has never
+tested more than 110 workstations at once, said Gary Ginter,
+managing director of Globex Corp., the joint venture that is
+developing the system.
+   Tuesday's test was to involve simulated futures trades
+being executed by volunteer traders on 250 workstations in
+Paris, London, New York, Chicago and at Reuters' U.S.
+headquarters in Hauppauge, N.Y. That's about as many
+workstations as will use the system to do real trades once
+the system is launched, Mr. Ginter said.
+   The test was stopped after only 10 minutes, Mr. Ginter,
+added. Soon after the test started, it became clear that one
+of the 250 work stations was registering price or quantity
+data for a futures trade that was different from the host
+computer's data. Because of the discrepancy, the software
+that runs the system automatically shut it down.
+   "It's a very significant bug, in that it caused a
+difference between host and key station environments," Mr.
+Ginter said. "You have to understand that in these complex
+tests, thousands of components are working together like a
+symphony. And if somebody hits an off note you can hear it
+real well."
+   Globex hasn't rescheduled the test, because it hasn't yet
+pinpointed the problem. "In these matters the fix may take
+only a few hours," Mr.Ginter said. "But it takes longer to
+figure out where the problem is."
+   When the system is up and running, members of
+participating futures exchanges will be able to use their
+Globex workstations to do actual trades. If such a problem
+occurred during real-time trading, the system's response
+would be the same: to shut down trading, Mr. Ginter said. In
+that case, futures traders would have to resort to telephones
+to close out trades they had previously made on the Globex
+system.
+   Analysts tended to play down yesterday's snafu, noting
+that it was only the most recent in a long series of delays
+that have postponed the launch of the ambitious Globex
+project. One reason the market reacted so strongly was
+because Reuters' share price had escalated on little
+significant news during the previous three trading sessions,
+analysts said.
+   "One can envision scenarios where the cause of delay would
+be a great blow to prospects of Globex," said Michael W.
+Ellmann, analyst for Wertheim Schroder in New York. More
+likely, however, is "a scenario where the project will only
+be delayed for weeks or months," he added.
+   Another reason that the market fixated on the test: "This
+test is the test that will determine the launch date," Mr.
+Ginter said. "When this test is completed. . . .we then will
+be able to decide on a launch {date}."

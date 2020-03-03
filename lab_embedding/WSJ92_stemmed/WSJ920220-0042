@@ -1,0 +1,114 @@
+silver 8
+bronz 6
+total 24
+
+
+unit team
+
+
+gold 7
+silver 5
+bronz 6
+total 18
+
+
+austria
+
+
+gold 4
+silver 7
+bronz 7
+total 18
+
+
+norway
+
+
+gold 7
+silver 5
+
+total 16
+
+
+itali
+
+
+gold 3
+silver 4
+bronz 3
+total 10
+
+countri gold silver bronz total
+
+
+algeria 0 0 0 0
+andorra 0 0 0 0
+argentina 0 0 0 0
+australia 0 0 0 0
+austria 4 7 7 18
+belgium 0 0 0 0
+bermuda 0 0 0 0
+bolivia 0 0 0 0
+brazil 0 0 0 0
+britain 0 0 0 0
+bulgaria 0 0 0 0
+canada 1 0 2 3
+chile 0 0 0 0
+china 0 2 0 2
+colombia 0 0 0 0
+costa rica 0 0 0 0
+croatia 0 0 0 0
+cyprus 0 0 0 0
+czechoslovakia 0 0 2 2
+denmark 0 0 0 0
+estonia 0 0 0 0
+finland 3 1 3 7
+franc 3 5 1 9
+germani 10 8 6 24
+greec 0 0 0 0
+hondura 0 0 0 0
+hungari 0 0 0 0
+iceland 0 0 0 0
+india 0 0 0 0
+ireland 0 0 0 0
+itali 3 4 3 10
+jamaica 0 0 0 0
+japan 1 1 3 5
+latvia 0 0 0 0
+lebanon 0 0 0 0
+liechtenstein 0 0 0 0
+lithuania 0 0 0 0
+luxembourg 0 2 0 2
+mexico 0 0 0 0
+monaco 0 0 0 0
+mongolia 0 0 0 0
+morocco 0 0 0 0
+netherland 0 1 2 3
+nether antill 0 0 0 0
+new zealand 0 0 0 0
+
+norway 7 5 4 16
+philippin 0 0 0 0
+poland 0 0 0 0
+puerto rico 0 0 0 0
+romania 0 0 0 0
+san marino 0 0 0 0
+seneg 0 0 0 0
+slovenia 0 0 0 0
+south korea 0 1 0 1
+spain 0 0 0 0
+swaziland 0 0 0 0
+sweden 1 0 2 3
+switzerland 1 0 1 2
+taiwan 0 0 0 0
+turkey 0 0 0 0
+unit state 3 3 1 7
+unit team* 7 5 6 18
+virgin island 0 0 0 0
+yugoslavia 0 0 0 0
+
+
+*includ former soviet union
+
+
+sourc ap

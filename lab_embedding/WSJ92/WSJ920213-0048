@@ -1,0 +1,101 @@
+Analysts Believe New Chip From Digital
+   May Give Market Advantage to Company
+   ----
+   By John R. Wilke
+   Staff Reporter of The Wall Street Journal
+Executives of Cray Research Inc., Eagan, Minn., confirmed
+in Paris yesterday that the big supercomputer maker will be
+the first company to order the Alpha chip.
+   The Alpha chip "delivers leading-edge single-chip
+functionality and performance," said John Rollwagen, Cray's
+chief executive officer. He said a single Alpha chip "has
+roughly the same peak performance as a Cray-1 system," a
+small supercomputer. Analysts said Cray chose Digital's Alpha
+over chips from Sun Microsystems Inc., Hewlett Packard Co.,
+International Business Machines Corp. and others. Digital's
+stock closed at $59.125, up $2.25, in composite trading
+yesterday on the New York Stock Exchange.
+   Digital, the nation's second-largest computer maker, will
+disclose details of the chip at a semiconductor industry
+conference in San Francisco next Thursday. An abstract of a
+technical paper describing the chip's design shows that it is
+faster than chips being built by Sun, Hewlett-Packard and
+IBM, analysts said.
+   "This is stunning technology," said Marc G. Schulman of
+UBS Securities Inc. "If these performance numbers are
+correct, Digital has moved in one year from last to first in
+hardware technology."
+   Mr. Schulman said he thinks the chip will be shipping in
+volume within six months, much sooner than previously
+expected, and will be called ARA, or Advanced RISC
+Architecture. RISC stands for reduced instruction-set
+computing, a technique for making chips run faster.
+   Barry F. Willman, an analyst with Sanford C. Bernstein 
+Co., said Alpha "breaks new ground" in chip design. "This
+technology should place Digital not only ahead of Sun and
+Hewlett-Packard's current high-end chips but ahead of their
+next generation as well."
+   In another departure, Alpha is expected to run under a
+future Microsoft Corp. operating system, Windows NT, that
+could vastly increase its market acceptance. The chip also
+runs VMS, Digital's own software, drawing Digital's large
+base of existing customers.
+   Windows NT is Microsoft's next-generation version of its
+Windows operating system, designed to operate on more
+powerful computers. The Digital chip is expected to be the
+engine for a wide variety of Digital models from desktop to
+large supercomputer-class machines.
+   According to the abstract of Digital's presentation, the
+Alpha chip processes 64 bits of information at once, double
+the most powerful 32-bit microprocessors in common use today.
+The abstract says the chip runs at a clock speed of 200
+megahertz and delivers peak power of 400 MIPS, or million
+instructions per second. These common measures of computer
+speed can be thought of as analogous to the
+revolutions-per-minute and horsepower ratings, respectively,
+of an auto engine.
+   Digital last month said that the practical speed of the
+new chip -- the speed it can maintain in every-day use --
+will be about 150 MIPS. Intel Corp., the semiconductor
+industry leader, has said that its next-generation chip, due
+out this summer, will run at 100 MIPS.
+   A spokeswoman for Intel said that "the key question is
+whether the Digital chip will be available in volume. Anyone
+can make 100 of anything. We make millions of chips a month."
+   Dallas Kirk, a Digital spokesman, refused comment on the
+chip specifications, its shipping schedule or licensees,
+except to confirm that licensing of the chip is under
+discussion. Others within Digital say the company isn't
+likely to announce any licensees at the time the chip itself
+is unveiled this month.
+   Digital's readiness to license the chip follows a pattern
+of seeking to build support for a chip among software
+developers by making it widely available. The strategy was
+embraced by Sun, of Mountain View, Calif., and has won its
+Sparc chip wide support.
+   But if the Alpha chip runs Windows NT, it is likely to
+draw hundreds of software developers even if no one licenses
+the chip.
+   C. Gordon Bell, a former Digital engineer who in recent
+years has been sharply critical of the company's flagship VAX
+computer design, called the Alpha "an extraordinary technical
+achievement."
+   The announcement next week begins what is expected to be a
+long and potentially risky transition for Digital. Sales of
+its existing line of computers has been sluggish and some
+analysts expect the Maynard, Mass., computer maker to report
+another loss in the current quarter. The first workstations
+or computers built around Alpha won't contribute
+significantly to results this year, analysts say.
+   "As impressive as the Alpha technology is, it isn't going
+to be much help near term," Mr. Willman of Sanford Bernstein
+said.
+   Cray said in its announcement yesterday that it will use
+the Digital chip in its first-generation massively parallel
+processing system, in which hundreds or even thousands of
+chips work together in a single system. Cray said it placed
+an order for Alpha chips to be delivered in 1993, but didn't
+disclose terms of the agreement.
+   A Hewlett-Packard spokeswoman said the company expects to
+announce its own next-generation chip soon. "This is a game
+of leapfrog, and we intend to remain a leader," she said.

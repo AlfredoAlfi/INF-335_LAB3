@@ -1,0 +1,127 @@
+TECHNOLOGY
+   ----
+   By John R. Wilke
+EMPLOYEES who write love letters on office personal
+computers, beware. It's getting easier for the boss to look
+over your shoulder.
+   Network-management programs now allow operators of most
+office PC networks to peer into directories of files stored
+on individual PCs, letting them read, rewrite and delete
+files from PC hard disks. A new crop of these programs make
+that far easier to do, and some will even allow managers to
+monitor what's being typed on an employee's screen.
+   One such program is Proxy, coming in May from Funk
+Software of Cambridge, Mass. It lets managers see what's
+being typed on the screens of as many as eight PCs at once.
+Client Server Technologies' LANlord and programs from XTree,
+Microcom and others will let managers seize control of PCs
+and run them remotely. To protect privacy, Proxy signals
+users that they're being monitored or seized, and it gives
+each PC user the option of preventing unwanted spying.
+   Software makers say such network "enforcer" programs are
+unavoidable. "If you're on a network, the computer isn't
+`personal' anymore; it becomes part of a broader society,"
+says Russell Frye, president of Frye Computer Systems, which
+makes a network software package. For better or worse, to
+prevent viruses and ensure that computers are properly used,
+he says that "networks need police."
+                                                                                                       
+
+   Looking for a House
+   On a Computer Screen
+                                                                                                       
+
+   HOUSE-HUNTING is going high-tech. Technologies such as
+artificial intelligence, digital color imaging and vast
+databases are being combined in new ways to make finding a
+home far less painful.
+   One new approach has been taken by HomeView, Needham,
+Mass., which is building an image database of as many as
+30,000 homes for sale in the state, and has plans to enter 20
+more states within a year. Prospective buyers browse through
+a menu of choices, creating lists of homes based on criteria
+such as price range, school proximity or even being near a
+golf course. Then the computer gives a visual tour of the
+properties, inside and out.
+   With successive requests, the computer refines home
+searches, generating a custom color catalog of homes and
+notifying the listing brokers, who give a portion of their
+commission to HomeView.
+   Another innovation -- again, using existing technology in
+new ways -- is offered by Inpho of Cambridge, Mass. For a
+flat $5 charge, users can search a vast file of up-to-date
+public records to find the sale date and price of homes in
+their area. Simply punch in an address on your phone, and a
+synthesized voice tells what your new neighbor actually paid
+for that house. Previously, that data could be found only by
+searching record books in county deed registries.
+   The service, available in Massachusetts, is scheduled to
+start in Rhode Island and Connecticut by summer and should
+become more broadly available next year.
+                                                                                                       
+
+   Soon, the 64-Bit Chip
+   Will Jog Huge Memories
+                                                                                                       
+
+   FOR NOW, 32-bit chips such as Digital Equipment's VAX or
+Intel's 386 set the standard for handling quantities of data,
+but 64-bit chips are coming soon.
+   The 32-bit design lets the chip work with four billion
+pieces of data in memory at the same time, like a phone
+system that can reach four billion extensions at once. But
+programmers working on ever more complex programs are running
+out of room, fueling interest in 64-bit chips.
+   Analysts say that by vastly increasing "directly
+addressable memory," the 64-bit chip will make such
+leading-edge applications as computer visualization and
+artificial intelligence, which require huge amounts of
+memory, easier to develop and run.
+   That's because the 64-bit chip doesn't just double the
+address space, but boosts it exponentially, reaching a huge
+number of pieces of data-20 quintillion, or two followed by
+19 zeroes. "I'll be dead before" anyone has the money for
+that much memory, says Richard Sites, co-designer of
+Digital's new 64-bit chip.
+   Other 64-bit designs are on the way. MIPS Computer is
+bringing out one this year, and International Business
+Machines and others scramble to build their own.
+   Marc Schulman, analyst for UBS Securities, says that each
+time a transition to larger memory-address capability takes
+place, "a new wave of growth is unleashed" in the industry.
+                                                                                                       
+
+   New Device Could Lock
+   The Door on Hackers
+                                                                                                       
+
+   THE VIRUS hysteria of recent weeks has given new urgency
+to the efforts of American Telephone  Telegraph, Northern
+Telecom and other makers of office phone systems to protect
+their products from unwanted intruders.
+   The potential for damage is significant: Criminal hackers
+could plant damaging computer viruses, or more commonly,
+steal tens of thousands of dollars of phone service in a
+weekend.
+   Northern Telecom, the second-largest maker of phone
+switches, has just tested a device that could help close the
+door on hackersan electronic lock and key designed by
+Gatekeeper of Dallas to protect key computer and office phone
+lines.
+   A researcher in Northern Telecom's Richardson, Texas, labs
+used sophisticated security software to attempt to crack the
+device, running two computers for five days. The unsuccessful
+effort led him to conclude it would take a hacker working
+nonstop 188 days to break the more than one trillion code
+combinations. "Most hackers would give up," or the system's
+manager would have discovered the attempt, he says.
+   ---
+   Corrections  Amplifications
+                                                                                                       
+
+   CHIPS based on MIPS Computer Systems Inc.'s 64-bit design
+began to be shipped in volume earlier this year, and computer
+systems based on the chip will be available this month.
+Yesterday's edition incorrectly indicated that chips based on
+MIPS's design weren't yet available.
+   (WSJ March 24, 1992)

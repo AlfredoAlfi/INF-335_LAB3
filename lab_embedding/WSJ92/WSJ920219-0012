@@ -1,0 +1,94 @@
+Computers:
+   Superfast Chips
+   Inventively Mix
+   Brain and Brawn
+   ----
+   By Stephen Kreider Yoder
+   Staff Reporter of The Wall Street Journal
+Meanwhile, Hewlett-Packard Co. hastily unveiled its
+next-generation microprocessor ahead of schedule yesterday to
+assert bragging rights over the new chips by Sun and Digital.
+   While the chips described at the conference -- and outside
+the conference, in H-P's case -- will be technologically
+astounding, industry experts caution that such chips are
+often experimental and make it to market in a much slower
+form, if at all. "There's a danger of being overtaken by the
+marketing frenzy" at the conference, says Andrew Allison,
+publisher of a chip newsletter called RISC Management.
+   Still, the new chips provide clues to a company's
+technological prowess and a glimpse at what will show up in
+tomorrow's computers. Perhaps the most avidly watched session
+will be tomorrow morning, when Digital engineers disclose the
+specifics of a chip, code-named Alpha, which Digital is
+expected to use in future machines and which Cray Research
+Inc. said it plans to use in new supercomputers.
+   Many analysts, and even some Digital competitors, say they
+expect the Alpha to be faster than chips from H-P, Sun and
+others, at least on paper. For Digital, "this is the most
+significant announcement since the VAX," Digital's flagship
+minicomputer, concedes Patrick Gelsinger, who manages much of
+the microprocessor development and marketing work at Intel
+Corp., the largest microprocessor maker.
+   Still, Mr. Gelsinger and others say Digital will likely
+find it difficult and expensive to produce its chip in high
+volumes and still maintain the speed claims it is expected to
+make at the conference.
+   "It's abundantly clear that the volume computing market
+isn't driven by who has {the fastest} performance," says
+Michael Slater, editor of Microprocessor Report, a
+newsletter. "It's driven by software and who has the most
+cost-effective performance."
+   Indeed, companies with strong market positions plan to
+challenge Digital openly. In the conference session just
+after Digital's, engineers at Sun, the king of workstations
+that use reduced instruction-set computing, or Risc, chips,
+will talk about their own new chip, the SuperSparc. Made
+under license by Texas Instruments Inc., the chips contain
+three million transistors and can process three computer
+instructions for every cycle of its internal clock. The chips
+will produce a peak speed of about 150 Mips, or million
+instructions per second, about four times the speed of Sun's
+chips today, says David Ditzel, director of Sun's advanced
+systems group.
+   Those numbers may not match the peak speed of 400 Mips
+that Digital says its chips produce, says Mr. Ditzel, but the
+Sun-designed chip will be cheaper and will match Digital's in
+actual computing tasks. "Even in absolute performance, I see
+no reason to expect we won't be able to meet or exceed their
+performance," says Mr. Ditzel, adding that Sun's chips will
+appear in machines later this year.
+   Digital hasn't detailed its plans, but some analysts
+expect the company to ship workstations using its Alpha chip
+by the end of the year.
+   H-P, which hadn't planned to announce its chip for several
+weeks until news of Digital's surfaced, launched its
+challenge to Digital in the form of the next generation of
+its highly successful "Precision" Risc chip. The chip,
+code-named Thunderbird, will go into three of H-P's four
+computer lines in the middle of the year, says Willem
+Roelandts, general manger of HP's networked systems group.
+   The Thunderbird chip will run at a sustained speed -- the
+speed it maintains during typical use -- of well over 100
+Mips, approaching the sustained speed of 150 Mips Digital's
+chip is expected to produce, says Mr. Roelandts. "From all
+the information we have, we believe ours will be at least as
+fast and probably faster in real benchmarks," he says. H-P,
+like Sun, has a large base of users and libraries of
+thousands of programs that run on its chips.
+   The Japanese, whose efforts to break into computer markets
+with their own microprocessor designs were largely rebuffed
+in the 1980s, are sticking to the kind of esoteric papers
+that the chip conference was originally meant to showcase.
+The announcements are expected to be more technological
+statements than an indication of a new Japanese thrust.
+   Fujitsu Ltd., for example, plans to discuss what it calls
+a single-chip supercomputer, a 1.5-million transistor chip
+that can perform certain calculations as fast as
+supercomputers costing millions of dollars. Hitachi Ltd.
+engineers plan to talk about a chip with a million
+transistors that runs at 1,000 Mips.
+   "These are odd-ball researchy things that people probably
+won't ever use," says Mr. Slater, the newsletter editor. "You
+can always build something dramatically faster if you don't
+concern yourself with software compatibility or price
+points."

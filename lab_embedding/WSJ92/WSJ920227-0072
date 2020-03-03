@@ -1,0 +1,98 @@
+PERSONAL TECHNOLOGY
+   ----
+   By Walter S. Mossberg
+ANOTHER computer virus alarm is being sounded, and as
+always it's tough for computer users to know how seriously to
+react. Nobody wants to suffer the ill effects of a virus, but
+past warnings about particular strains of such viruses have
+often proved overblown, with relatively few cases of real
+damage.
+   In general, I hesitate to echo dire warnings of viruses,
+partly because they often come from the makers of
+virus-detection software. But the latest scare, about a virus
+named Michelangelo, warrants more attention than most.
+   Michelangelo is a particularly destructive virus designed
+to wipe out the entire contents of your hard disk drive on
+March 6, a week from tomorrow, if you have an IBM-compatible
+personal computer that's been infected. Even if it strikes
+only a tiny percentage of computers, it could do great
+damage. Moreover, Michelangelo has already shown up on a few
+commercially sold floppy and hard disks. And it spreads in a
+sneaky way that could trap even normally careful users.
+   So, this week, I'll tell how to stymie Michelangelo. Next
+week, I'll discuss virus prevention in general, which can be
+confusing.
+   A computer virus is a small program created by a malicious
+programmer for the sole purpose of spreading itself from
+computer to computer and then carrying out functions without
+the owners' permission. Some viruses merely propagate, taking
+up disk space or slowing processing. Others display unwanted
+messages on your screen. A few, like Michelangelo, are truly
+pernicious, destroying or damaging programs and files.
+                                                                                                       
+
+   Michelangelo's name derives from its March 6 trigger date,
+also the birthday of the great artist. The virus resides
+invisibly on an infected computer until that date comes up on
+the computer's internal clock, in any year. Then, whenever
+the computer is started or restarted on March 6, it
+detonates, overwriting all of your hard disk files.
+   Viruses typically spread by the transfer of programs
+carrying an undetected infection. Such transfers usually
+occur through computer networks or bulletin boards, so people
+who don't trade programs this way often feel safe.
+   But the Michelangelo strain moves differently. It hides on
+floppy disks and spreads to a new computer whenever someone
+tries to start ("boot") the computer from an infected floppy.
+The virus will spread even if the attempt to start the
+computer from the floppy fails. Once your computer is
+infected, the Michelangelo virus will infect every other
+floppy you put into it.
+   There's one consolation: The virus won't spread if you
+merely copy files from a floppy to your hard disk, only if
+you try to start your computer from the floppy, a much less
+common procedure.
+   Here are steps you can take to protect yourself against
+the Michelangelo virus:
+   -- Back up the entire contents of your hard disk, using
+any backup program. This creates a copy of all your files on
+a tape or a set of floppy disks. If the virus wipes you out,
+you can later rebuild your hard disk's contents from this
+archive.
+   -- Obtain and use an anti-virus program to see whether
+Michelangelo is hiding on your hard disk, and eradicate it if
+you find it. Also use this software to check any floppy disks
+you intend to use to start your computer.
+                                                                                                       
+
+   Make sure the version of the anti-virus software you're
+using is new enough to cover the Michelangelo virus, which
+first came to software makers' attention late last summer. If
+your version is too old, or if you don't have antivirus
+software, try to get one of the low-cost promotional
+programs, offered by several software companies, that go
+after the Michelangelo virus. Details on these are below.
+   -- As a last resort, you can trick the virus by setting
+your computer's internal clock to March 7, 1992, by no later
+than March 5. Or, you can leave your computer on from March 5
+until March 7, without restarting it. These methods will
+prevent the virus from detonating, but they carry risks. A
+wrong date may make your computer inaccurate, and if you
+don't change the clock, an accidental restart on March 6
+could wipe you out. If your machine is infected, the virus
+will still strike every March 6 in the future, and your
+computer will still spread the virus to every floppy you use.
+   Symantec, Santa Monica, Calif., which makes the Norton
+AntiVirus program for PCs, is offering a special
+Michelangelo-only version for $9. Or, with a modem, you can
+download the special program free of charge (except for the
+phone call) from the company's bulletin board.
+   Microcom, Norwood, Mass., which makes the Virex program,
+offers a similar Michelangelo-only program free of charge on
+its bulletin board. Central Point Software, Beaverton, Ore.,
+offers a similar special version of its Central Point
+Anti-Virus Software for $29.
+   There's also a noncommercial anti-virus package, called
+Viruscan, by McAfee Associates, Santa Clara, Calif., which
+has long been available on many bulletin boards. The latest
+versions can tackle Michelangelo.
