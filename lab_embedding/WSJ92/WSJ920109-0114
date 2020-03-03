@@ -1,0 +1,86 @@
+PERSONAL TECHNOLOGY
+   ----
+   By Walter S. Mossberg
+To do this, you need a device called a modem. Most modems
+are inexpensive; they're not particularly hard to install;
+and with the right software to control them, they can be
+pretty straightforward to operate. But learning about them is
+confusing because the subject is cloaked in dense
+communications jargon. Eyes glaze over when the experts start
+trying to define the word "modem" by plunging into a
+discussion of something called "modulation" (from which the
+first syllable of "modem" is derived.)
+   That won't happen here. Trust me; you don't need to know
+about modulation to buy or use a modem. Instead, think of a
+modem as a telephone for your computer, a specialized phone
+that is designed to send computerized data -- such as text
+and graphics -- instead of human voices, over phone lines.
+That's the only basic concept you need.
+   When you set out to buy a modem, there are two main issues
+to consider: style and speed. Modems come in two styles.
+Internal modems are naked circuit boards-sheets of silicon
+covered with chips and other parts -- that fit into a slot
+inside a computer. They need no cables to connect to the
+computer and draw their electrical power from the computer.
+   External modems pack the same circuitry into a little box
+that sits on the desk and plugs into an electrical outlet.
+They connect to the computer through a cable that fits into a
+standard socket called a serial port on the back of the
+computer.
+   Both kinds of modems have at least one modular phone jack.
+You can connect them to your regular phone line, but be
+forewarned: Modem sessions can prevent callers from getting
+through, and data can be disrupted if someone picks up the
+phone during a modem session.
+   There are lots of advantages to internal modems: fewer
+cables, and no need to give up desk space, electrical outlets
+or a serial port, which can be left free for other types of
+add-on equipment. But some people prefer external modems
+because they don't require you to fool around inside the
+computer and often feature indicator lights that can tell you
+at a glance the status of a call.
+   The other major issue is the speed with which a modem can
+transmit data over phone lines. This is measured in bits --
+the smallest unit of computer data per second, or bps. The
+most commonly available modems are rated at 1,200, 2,400 or
+9,600 bps. (These ratings are also often expressed in terms
+of "baud" rather than bps, but the numbers are the same.)
+   Speed matters. The faster you can send or receive data,
+the less you'll pay in phone bills and connection fees to
+commercial services, which often charge by the minute. But
+the fastest modems carry a steep price premium.
+   For the vast majority of users, a 2,400 bps modem is the
+best choice. A good one can be had for under $200. Most
+commercial and corporate databases now run at 2,400 bps or
+slower. The 9,600 bps models often cost $500 to $1,000, and
+only run at top speed when you call another 9,600 bps modem.
+Still, if you routinely exchange large amounts of data with
+another 9,600 bps modem or are trying to link up remotely
+with another PC, the extra cost may be worth it.
+   Some modems also can send documents from your computer
+screen to fax machines. They often cost only $50 or $100
+more.
+   Modems are becoming mass-market items, but steer away from
+the very cheapest models and the most obscure brands. There
+are too many quality brands to list here, but some major ones
+with competitive prices are U.S. Robotics, Practical
+Peripherals and Zoom Telephonics.
+   Make sure your modem is "Hayes-compatible," meaning it
+responds to a standard set of commands popularized by Hayes
+Microcomputer Products, a big modem maker. Most are. Make
+sure as well that the modem can automatically dial and answer
+phone calls. Most now can. But the average user can ignore
+most of the costly special features modem makers promote,
+such as circuitry to correct transmission errors or compress
+data.
+   What you can't ignore is software. The final value of your
+modem purchase will depend on getting a communications
+program that's both sophisticated and easy to use. Many
+modems come bundled with simple software, but I can recommend
+especially two commercial programs: ProComm Plus, by
+Datastorm, for IBM-compatibles, which sells for about $65,
+and MicroPhone II (about $215), by Software Ventures, for
+Apple's Macintosh computers and those IBM-compatibles that
+use Microsoft's Windows program. Both will hide the modem's
+complexity behind simple commands and screen displays that
+will let you roam the world by phone from your desk.
